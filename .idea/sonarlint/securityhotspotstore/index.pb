@@ -1,0 +1,21 @@
+
+Å
+Qapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/SingleFragmentActivity.java,8\7\875005cc3e6644512bd23c17b5b6a2d630aa0dcf
+{
+Kapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/TaskListActivity.java,2\e\2e4e5ac112d107978a86abe4563083084e821cd7
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+o
+?app/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/Task.java,a\a\aa4f46f292cb08bc030dc979d3648e4e75a420b8
+v
+Fapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/TaskStorage.java,4\8\48c6edcce236ff2e1895daff9464c96c2edfd5f0
+w
+Gapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/MainActivity.java,1\f\1f27ed6bbfacdfd6c0a6776719e02b9015d9c32c
+w
+Gapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/TaskFragment.java,5\2\52c0c9bda02e18768684d76be20938b03c00e742
+{
+Kapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/TaskListFragment.java,4\6\460005369e7697f41786f563ec9e04bdc1d324be

@@ -1,0 +1,12 @@
+Link:
+https://github.com/Eskel21/Zadanie2.git
+
+Opis:
+Po pierwszym uruchomieniu aplikacji w panelu logcat można było odczytać informacje o wywołaniu metod: onCreate, onStart i onResume.
+Wciśnięcie przycisku Cofnij spowodowało wywołanie metod: onPause, onStop i onDestroy.
+Ponowne uruchomienie aplikacji wywołało metody: onCreate, onStart i on Resume.
+Naciśnięcie przycisku powrotu do ekranu głównego Home spowodowało wywołanie metod: onPause i onStop.
+Powrót do aplikacji z listy ostatnio używanych aplikacji wywołał metody: onStart i onResume. 
+Po przejściu do nowego pytania i obróceniu ekranu, wyświetliło się ponownie pierwsze pytanie, spowodowane jest to wywołaniem metod cyklu życia aplikacji 
+w kolejności: onPause, onStop, onDestroy, onCreate, onStart, onResume. Taką właśnie kolejność można było odczytać z panelu logcat po obróceniu ekranu.
+Po dodaniu metody onSaveInstanceState i powtórzeniu kroków z punktu 9 zadania, tj, ponowne uruchomienie aplikacji, przejście do następnego pytania i obrócenie ekranu, wyświetlane było to samo pytanie co przed obróceniem ekranu a w logach można było znaleźć informacje o wywołaniu metod: onPause, onStop, onSaveInstanceState, onDestroy, onCreate, onStart i onResume.
