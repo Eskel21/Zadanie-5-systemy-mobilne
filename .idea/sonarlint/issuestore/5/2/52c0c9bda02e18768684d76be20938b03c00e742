@@ -1,13 +1,15 @@
 
 {
-java:S1450"YRemove the "dateButton" field and declare it as a local variable in the relevant methods.(ˆŸªùùÿÿÿÿ8Ëÿ”·1
+java:S1450""^Remove the "categorySpinner" field and declare it as a local variable in the relevant methods.(É¿«©8ÔéŒÆ»1
 }
-java:S1450"[Remove the "doneCheckBox" field and declare it as a local variable in the relevant methods.(§¨âŸıÿÿÿÿ8Ëÿ”·1
+java:S1450"[Remove the "doneCheckBox" field and declare it as a local variable in the relevant methods.(§¨âŸıÿÿÿÿ8ßş‹Æ»1
 z
-java:S1450"XRemove the "nameField" field and declare it as a local variable in the relevant methods.(âê¸şÿÿÿÿ8Ìÿ”·1
+java:S1450"XRemove the "nameField" field and declare it as a local variable in the relevant methods.(âê¸şÿÿÿÿ8àş‹Æ»1
 Y
-java:S1874%"7Remove this use of "getSerializable"; it is deprecated.(½‚°½ıÿÿÿÿ8×ÿ”·1
+java:S18748"7Remove this use of "getSerializable"; it is deprecated.(½‚°½ıÿÿÿÿ8êş‹Æ»1
 
-java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8Úÿ”·1
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8îş‹Æ»1
+£
+java:S1186n"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ñş‹Æ»1
 I
-java:S1602I",Remove useless curly braces around statement(ÂşãÏ8Şÿ”·1
+java:S1602t",Remove useless curly braces around statement(ÂşãÏ8ôş‹Æ»1

@@ -1,3 +1,5 @@
 
 »
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(°·‰æøÿÿÿÿ8Ÿİ‚ˆ·1
+java:S6548	"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(°·‰æøÿÿÿÿ8ÜËÌÅ»1
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(äÙ‰¬ıÿÿÿÿ8äËÌÅ»1

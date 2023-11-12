@@ -19,3 +19,17 @@ w
 Gapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/TaskFragment.java,5\2\52c0c9bda02e18768684d76be20938b03c00e742
 {
 Kapp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/TaskListFragment.java,4\6\460005369e7697f41786f563ec9e04bdc1d324be
+s
+Capp/src/main/java/pl/edu/pb/wi/zadanie3systemymobilne/Category.java,6\b\6b13190c7de1d276fdb0f7913fcd149b07425d7b
+Å
+Q.idea/sonarlint/securityhotspotstore/6/b/6b13190c7de1d276fdb0f7913fcd149b07425d7b,a\8\a8e7945347785bbcb4c34dc8d96aed1abf3ece42
+w
+G.idea/sonarlint/issuestore/6/b/6b13190c7de1d276fdb0f7913fcd149b07425d7b,4\5\45c39761a443853f869d9cd3a62854f9907bd51b
+w
+G.idea/sonarlint/issuestore/4/5/45c39761a443853f869d9cd3a62854f9907bd51b,b\f\bfef3b0d49501ac4caa11680ddd22c1246f4f448
+Å
+Q.idea/sonarlint/securityhotspotstore/a/8/a8e7945347785bbcb4c34dc8d96aed1abf3ece42,6\b\6b8ea58fc03af8bc30e9ac10734345b09937c219
+Å
+Q.idea/sonarlint/securityhotspotstore/4/5/45c39761a443853f869d9cd3a62854f9907bd51b,1\f\1f2bbb79df5920b6274db4fdfce5e2c9f9f50df3
+w
+G.idea/sonarlint/issuestore/a/8/a8e7945347785bbcb4c34dc8d96aed1abf3ece42,e\d\edfe43e61ad3233467b6fb543f4d34d545db56f5

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="task_item_padding">10dp</dimen>
+    <dimen name="font_size_large">20sp</dimen>
+    <dimen name="font_size_medium">15sp</dimen>
+    <dimen name="margin_very_small">8dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_medium">15dp</dimen>
+
+</resources>

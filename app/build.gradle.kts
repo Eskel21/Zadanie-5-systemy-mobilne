@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "pl.edu.pb.wi.zadanie3systemymobilne"
-        minSdk = 19
+        minSdk = 21
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
